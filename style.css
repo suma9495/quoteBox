@@ -1,0 +1,53 @@
+#new-body{
+    background:lightblue;
+}
+.wrapper{
+    background:white;
+    height: 300px;
+    width: 40%;
+    border-style: solid;
+    border-radius: 30px;
+    margin: 200px 300px 300px 400px;
+    padding: 30px 90px 30px 90px;
+    box-sizing: border-box; 
+}
+#text{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+#author{
+    color:saddlebrown;
+    height:25px;
+    margin:5px 0px 0px 260px;
+    border-radius:10px;
+    font-weight: bold;
+}
+#new-quote{
+    background: lightblue;
+    height:25px;
+    margin:95px 0px 0px 360px;
+    border-radius:10px;
+    font-weight: bold;
+}
+#first{
+    background-color:lightgoldenrodyellow;
+    height:25px;
+    margin:95px 0px 0px 360px;
+    border-radius:10px;
+    font-weight: bold;
+}
+#second{
+    background-color:grey;
+    height:25px;
+    margin:95px 0px 0px 360px;
+    border-radius:10px;
+    font-weight: bold;
+}
+#firstbody{
+    background-color:lightgoldenrodyellow;
+}
+#secondbody{
+    background-color:grey;
+}
